@@ -1,1 +1,1 @@
-# git-exercise
+Learning Front End Web Development at Altcademy
